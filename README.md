@@ -142,7 +142,15 @@ Then open **[http://localhost:8501](http://localhost:8501)** in your browser.
 
 ![Workflow Screenshot](https://via.placeholder.com/800x400?text=Workflow)
 
+👥 Collaboration & Contribution
 
+This project was developed as a collaborative academic GenAI exploration.
+
+My contributions included:
+- Designing the RAG pipeline
+- Implementing document ingestion, chunking, and embedding workflows
+- Experimenting with LLM selection and prompt design
+- Exploring transformer-based language models and training concepts
 
 ## 📜 License
 
