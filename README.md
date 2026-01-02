@@ -92,7 +92,7 @@ This app solves that by combining **semantic vector search** with **LLMs** → g
 Clone the repo and set up a virtual environment:
 
 ```bash
-git clone https://github.com/apoorvad444/GenAI.git
+git clone https://github.com/Abhinav-source2/genai-course-qa-assistant.git
 cd pdf-qa-assistant
 
 python -m venv venv
